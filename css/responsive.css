@@ -294,4 +294,8 @@ File Name: responsive.css
     .d_none {
         display: none;
     }
+    img {
+    max-width: 250px;
+        height: 130px;
+    }
 }
